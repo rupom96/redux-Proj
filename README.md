@@ -2,15 +2,15 @@
 
 This a full stack project about a website layout of a bike retailer service. This project has been made using HTML, React.js,React route, CSS, Bootstrap, firebase and mongodb. 
 
-Here is the live deployed link of this website: https://bikewala-1dbc0.web.app/
+Here is the live deployed link of this website: 
 
-(N.B: log in with 'admin@admin.com' with password: '123456' to access admin features)
-
-
-Live API server link: https://immense-thicket-22974.herokuapp.com/
+<!-- (N.B: log in with 'admin@admin.com' with password: '123456' to access admin features)
 
 
-Mongodb API server back-end code link: https://github.com/rupom96/Bike-Wala-server-
+Live API server link: https://immense-thicket-22974.herokuapp.com/ -->
+
+
+Mongodb API server back-end code link: 
 
 ## Features and Functionality:
 
