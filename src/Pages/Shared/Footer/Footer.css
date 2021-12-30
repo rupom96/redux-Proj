@@ -1,0 +1,17 @@
+footer h3 {
+    text-align: center;
+    color: rgb(168, 162, 162);
+}
+footer p{
+    text-align: center;
+    color: honeydew;
+}
+.footer-design{
+    background-color: rgb(12, 11, 12);
+    padding-top: 60px;
+    padding-bottom: 30px;
+
+}
+.violet-color{
+    color: yellow;
+}
